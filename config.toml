@@ -1,4 +1,4 @@
-baseURL = 'http://localhost/'
+baseURL = 'web_hugo'
 languageCode = 'en-us'
 title = 'JA Hugo Site'
 theme = 'hugo-theme-relearn'
